@@ -1,0 +1,79 @@
+/*
+COLORI:
+#1400F5
+#B5A12D
+#F5D000
+#756C3B anche no
+#4037A3
+#34324B
+
+#F2E200 per img -> #D1FFF9
+#ABFFF9
+#4027BA
+#86822D
+#3E455C
+#251F44 no -> #303547
+
+link #A1D4D6
+
+*/
+
+.logo {
+    background-color: gray;
+    border: 2px solid;
+    background-color: #D1FFF9;
+    width: auto;
+    text-align: center;
+}
+.img {
+    width: 400px;
+    height: 125px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #284582;
+}
+.index {
+    background-color: #3E455C;
+}
+.left {
+    float: left;
+    width: 15%;
+    height: 100%;
+    background-color: #3E455C;
+    padding-left: 0.52%;
+    padding-right: 0.52%;
+    padding-bottom: 0.925%;
+    padding-top: 0.925%;
+    margin-left:1.04%;
+    margin-right:1.04%;
+    margin-bottom:1.85%;
+    margin-top:1.85%;
+    border: 2px solid #86822D;
+    min-width: 295px;
+}
+
+.right{
+    max-width: 78%;
+    float:right;
+}
+
+a {
+    color: #A1D4D6;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #C4C1F9;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.tab {
+    margin-left: 27px;
+}
